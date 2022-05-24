@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "name": "http://localhost:3023/inbox?barcode=357883080254785",
+            "request": "launch",
+            "url": "http://localhost:3023/inbox?barcode=357883080254785"
+        }
+    ]
+}
